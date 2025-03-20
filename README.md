@@ -40,8 +40,9 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
 ### 🔹 Certifications & Achievements  
-- Completed **Ethical Hacking Fundamentals**  
-- **Google Cloud Essentials** Certified  
+- [Ethical Hacking Fundamentals (Forage)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/NPdeQ43o8P9HJmJzg_MBA4MnZTNFEoJZGnk_TGRwvzuTYCdSwHxFZ_1741431010362_completion_certificate.pdf)  
+- [Google Cloud Essentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/XvvYRvb2YpfkyA52H_T6kdcdKSTfg2aotxT_TGRwvzuTYCdSwHxFZ_1741602149229_completion_certificate.pdf)  
+- [AI For Business (Forage)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_TGRwvzuTYCdSwHxFZ_1741433170812_completion_certificate.pdf)  
 - Winner of **HackNITR Hackathon**  
 
 ---
