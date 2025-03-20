@@ -7,7 +7,7 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 
 🎯 **Goal:** Mastering **Artificial Intelligence** and building intelligent solutions!  
 
-🔍 **Currently Learning:** [Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white) & [Advanced React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white) 
+🔍 **Currently Learning:** ![Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white) & ![Advanced React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white) 
 
 📍 **Location:** Bankura, India  
 
