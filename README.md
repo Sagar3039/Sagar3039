@@ -1,6 +1,6 @@
 # 💻 **Sagar Karmakar**  
 
-![Profile Banner]([https://github.com/sagarkarmakar3/sagarkarmakar3/blob/main/banner.png](https://avatars.githubusercontent.com/u/92040943?s=400&u=a7ed72088dc0f9f8439bbaf1139cadb08e1d380e&v=4))  
+![Profile Banner]([[https://github.com/sagarkarmakar3/sagarkarmakar3/blob/main/banner.png](https://avatars.githubusercontent.com/u/92040943?s=400&u=a7ed72088dc0f9f8439bbaf1139cadb08e1d380e&v=4)](https://avatars.githubusercontent.com/u/92040943?v=4))  
 
 ## 🚀 **About Me**  
 Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML Enthusiast** currently pursuing **BCA (Bachelor of Computer Applications)**. I love building efficient and scalable applications, and I'm always exploring new technologies.  
