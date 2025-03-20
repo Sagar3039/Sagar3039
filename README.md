@@ -51,9 +51,9 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
   <a href="https://github.com/Sagar3039/New_portfolio">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=New_portfolio&theme=tokyonight" alt="Pinned Repo" />  
   </a>  
-  <a href="(https://github.com/Sagar3039/updated-memeSahare)">  
+  <a href="https://github.com/Sagar3039/updated-memeSahare">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=updated-memeSahare&theme=tokyonight" alt="Pinned Repo" />  
-  </a>  
+  </a> 
 </p>  
 
 
