@@ -1,12 +1,13 @@
 # 💻 **Sagar Karmakar**  
-  
+
+![Profile Banner](https://github.com/sagarkarmakar3/sagarkarmakar3/blob/main/banner.png)  
 
 ## 🚀 **About Me**  
 Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML Enthusiast** currently pursuing **BCA (Bachelor of Computer Applications)**. I love building efficient and scalable applications, and I'm always exploring new technologies.  
 
 🎯 **Goal:** Mastering **Artificial Intelligence** and building intelligent solutions!  
 
-🔍 **Currently Learning:** Golang & Advanced React  
+🔍 **Currently Learning:** [Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white) & [Advanced React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white) 
 
 📍 **Location:** Bankura, India  
 
@@ -22,12 +23,12 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 
 ### 🔹 Web Development  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
 ### 🔹 Frameworks & Libraries  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
 
 ### 🔹 Databases  
@@ -53,7 +54,7 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
   </a>  
   <a href="https://github.com/Sagar3039/updated-memeSahare">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=updated-memeSahare&theme=tokyonight" alt="Pinned Repo" />  
-  </a> 
+  </a>  
 </p>  
 
 
@@ -66,8 +67,7 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 
 ## 📧 **Let's Connect!**  
 
-🔗 **GitHub:** [Sagar3039]([https://github.com/Sagar3039](https://www.linkedin.com/in/sagar-karmakar-46791b285/))  
-🔗 **LinkedIn:** [Sagar Karmakar](https://www.linkedin.com/in/sagarkarmakar3)  
+🔗 **GitHub:** [Sagar3039](https://github.com/Sagar3039)  
+🔗 **LinkedIn:** [Sagar Karmakar](https://www.linkedin.com/in/sagar-karmakar-46791b285/)
 📩 **Email:** [sagarkarmakar3.10.2004@gmail.com](mailto:sagarkarmakar3.10.2004@gmail.com)  
-🌐 **Portfolio:** [My Portfolio](https://sagarportfolio2004.netlify.app/)
-
+🌐 **Portfolio:**  [My Portfolio](https://sagarportfolio2004.netlify.app/)
