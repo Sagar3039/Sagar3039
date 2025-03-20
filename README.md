@@ -1,13 +1,11 @@
 # 💻 **Sagar Karmakar**  
 
-![Profile Banner](https://github.com/sagarkarmakar3/sagarkarmakar3/blob/main/banner.png)  
-
 ## 🚀 **About Me**  
 Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML Enthusiast** currently pursuing **BCA (Bachelor of Computer Applications)**. I love building efficient and scalable applications, and I'm always exploring new technologies.  
 
-🎯 **Goal:** Mastering **Artificial Intelligence** and building intelligent solutions!  
+🎯 **Goal:** Mastering **Data Structures and Algorithms** and building intelligent solutions!  
 
-🔍 **Currently Learning:** ![Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white) & ![Advanced React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white) 
+🔍 **Currently Learning:** ![Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white)   &    ![Advanced React](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white) 
 
 📍 **Location:** Bankura, India  
 
@@ -51,10 +49,7 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 <p align="center">  
   <a href="https://github.com/Sagar3039/New_portfolio">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=New_portfolio&theme=tokyonight" alt="Pinned Repo" />  
-  </a>  
-  <a href="https://github.com/Sagar3039/updated-memeSahare">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=updated-memeSahare&theme=tokyonight" alt="Pinned Repo" />  
-  </a>  
+  </a> 
 </p>  
 
 
