@@ -27,36 +27,53 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
+### 🔹 Frameworks & Libraries  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+
+### 🔹 Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+### 🔹 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+### 🔹 Certifications & Achievements  
+- Completed **Ethical Hacking Fundamentals**  
+- **Google Cloud Essentials** Certified  
+- Winner of **HackNITR Hackathon**  
+
 ---
 
 ## 🏆 **GitHub Trophies**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarkarmakar3&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarkarmakar3&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />  
 </p>  
 
 ## 📌 **Pinned Repositories**  
-<p align="center">
-  <a href="https://github.com/sagarkarmakar3/your-best-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=your-best-repo&theme=tokyonight" alt="Pinned Repo" />
-  </a>
-  <a href="https://github.com/sagarkarmakar3/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=another-repo&theme=tokyonight" alt="Pinned Repo" />
-  </a>
+<p align="center">  
+  <a href="https://github.com/sagarkarmakar3/your-best-repo">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=your-best-repo&theme=tokyonight" alt="Pinned Repo" />  
+  </a>  
+  <a href="https://github.com/sagarkarmakar3/another-repo">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=another-repo&theme=tokyonight" alt="Pinned Repo" />  
+  </a>  
 </p>  
 
 ## 📊 **GitHub Stats**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarkarmakar3&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarkarmakar3&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
 </p>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkarmakar3&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkarmakar3&theme=tokyonight" alt="GitHub Streak" />  
 </p>  
 
 ## 💡 **Quote of the Day**  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+<p align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />  
 </p>  
 
 ---
@@ -66,3 +83,4 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 🔗 **LinkedIn:** [Sagar Karmakar](https://www.linkedin.com/in/sagarkarmakar3)  
 💌 **Email:** [sagarkarmakar3.10.2004@gmail.com](mailto:sagarkarmakar3.10.2004@gmail.com)  
 🌐 **Portfolio (Coming Soon! 🚀)**  
+
