@@ -43,33 +43,28 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 - [Ethical Hacking Fundamentals (Forage)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/NPdeQ43o8P9HJmJzg_MBA4MnZTNFEoJZGnk_TGRwvzuTYCdSwHxFZ_1741431010362_completion_certificate.pdf)  
 - [Google Cloud Essentials](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/XvvYRvb2YpfkyA52H_T6kdcdKSTfg2aotxT_TGRwvzuTYCdSwHxFZ_1741602149229_completion_certificate.pdf)  
 - [AI For Business (Forage)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_TGRwvzuTYCdSwHxFZ_1741433170812_completion_certificate.pdf)  
-- Winner of **HackNITR Hackathon**  
+
 
 ---
 
-## 🏆 **GitHub Trophies**  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarkarmakar3&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />  
-</p>  
-
 ## 📌 **Pinned Repositories**  
 <p align="center">  
-  <a href="https://github.com/sagarkarmakar3/your-best-repo">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=your-best-repo&theme=tokyonight" alt="Pinned Repo" />  
+  <a href="https://github.com/Sagar3039/New_portfolio">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=New_portfolio&theme=tokyonight" alt="Pinned Repo" />  
   </a>  
-  <a href="https://github.com/sagarkarmakar3/another-repo">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=another-repo&theme=tokyonight" alt="Pinned Repo" />  
+  <a href="https://github.com/Sagar3039/updated-memeSahare">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=updated-memeSahare&theme=tokyonight" alt="Pinned Repo" />  
   </a>  
 </p>  
 
-## 📊 **GitHub Stats**  
+## 💊 **GitHub Stats**  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarkarmakar3&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar3039&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkarmakar3&theme=tokyonight" alt="GitHub Streak" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar3039&theme=tokyonight" alt="GitHub Streak" />  
 </p>  
 
 ## 💡 **Quote of the Day**  
@@ -79,9 +74,10 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 
 ---
 
-## 📫 **Let's Connect!**  
+## 📧 **Let's Connect!**  
 
+🔗 **GitHub:** [Sagar3039]([https://github.com/Sagar3039](https://www.linkedin.com/in/sagar-karmakar-46791b285/))  
 🔗 **LinkedIn:** [Sagar Karmakar](https://www.linkedin.com/in/sagarkarmakar3)  
-💌 **Email:** [sagarkarmakar3.10.2004@gmail.com](mailto:sagarkarmakar3.10.2004@gmail.com)  
-🌐 **Portfolio (Coming Soon! 🚀)**  
+📩 **Email:** [sagarkarmakar3.10.2004@gmail.com](mailto:sagarkarmakar3.10.2004@gmail.com)  
+🌐 **Portfolio:** [My Portfolio](https://sagarportfolio2004.netlify.app/)
 
