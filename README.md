@@ -1,6 +1,6 @@
 # 💻 **Sagar Karmakar**  
 
-![Profile Banner]([[https://github.com/sagarkarmakar3/sagarkarmakar3/blob/main/banner.png](https://avatars.githubusercontent.com/u/92040943?s=400&u=a7ed72088dc0f9f8439bbaf1139cadb08e1d380e&v=4)](https://avatars.githubusercontent.com/u/92040943?v=4))  
+![Profile Banner](https://github.com/sagarkarmakar3/sagarkarmakar3/blob/main/banner.png)  
 
 ## 🚀 **About Me**  
 Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML Enthusiast** currently pursuing **BCA (Bachelor of Computer Applications)**. I love building efficient and scalable applications, and I'm always exploring new technologies.  
@@ -27,13 +27,22 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
-### 🔹 Tools & Technologies  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-
 ---
+
+## 🏆 **GitHub Trophies**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarkarmakar3&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>  
+
+## 📌 **Pinned Repositories**  
+<p align="center">
+  <a href="https://github.com/sagarkarmakar3/your-best-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=your-best-repo&theme=tokyonight" alt="Pinned Repo" />
+  </a>
+  <a href="https://github.com/sagarkarmakar3/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarkarmakar3&repo=another-repo&theme=tokyonight" alt="Pinned Repo" />
+  </a>
+</p>  
 
 ## 📊 **GitHub Stats**  
 
@@ -43,6 +52,11 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkarmakar3&theme=tokyonight" alt="GitHub Streak" />
+</p>  
+
+## 💡 **Quote of the Day**  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>  
 
 ---
