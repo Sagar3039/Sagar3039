@@ -47,8 +47,8 @@ Hey there! I'm **Sagar Karmakar**, a passionate **Web Developer** and **AI/ML En
 
 ## 📌 **Pinned Repositories**  
 <p align="center">  
-  <a href="https://github.com/Sagar3039/New_portfolio">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=New_portfolio&theme=tokyonight" alt="Pinned Repo" />  
+  <a href="https://github.com/Sagar3039/My_Portfolio">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar3039&repo=My_portfolio&theme=tokyonight" alt="Pinned Repo" />  
   </a> 
 </p>  
 
